@@ -57,6 +57,8 @@ Interactive Business Dashboard
       ↓
 Business Insights & Recommendations
 
+text```
+
 ##🗄️ SQL Analysis
 
 The SQL analysis covers multiple business areas:
