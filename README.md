@@ -246,23 +246,23 @@ Some major findings from the analysis include:
 
 ### Executive Overview
 
-![Executive Overview](Dashboard_Screenshots/executive_overview.png)
+![Executive Overview](Dashboard%20Screenshots/executive_overview.png)
 
 ### Sales & Product Performance
 
-![Sales & Product Performance](Dashboard_Screenshots/sales_product.png)
+![Sales & Product Performance](Dashboard%20Screenshots/sales_product.png)
 
 ### Customer Analysis
 
-![Customer Analysis](Dashboard_Screenshots/customer_analysis.png)
+![Customer Analysis](Dashboard%20Screenshots/customer_analysis.png)
 
 ### Seller Analytics
 
-![Seller Analytics](Dashboard_Screenshots/seller_analytics.png)
+![Seller Analytics](Dashboard%20Screenshots/seller_analytics.png)
 
 ### Delivery & Customer Analysis
 
-![Delivery & Customer Analysis](Dashboard_Screenshots/delivery_customer.png)
+![Delivery & Customer Analysis](Dashboard%20Screenshots/delivery_customer.png)
 
 ---
 
