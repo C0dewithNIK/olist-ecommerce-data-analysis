@@ -40,7 +40,7 @@ The analysis focuses on answering questions such as:
 
 # 📊 Project Workflow
 
-```text
+
 Olist Dataset
       ↓
     MySQL
@@ -57,7 +57,7 @@ Interactive Business Dashboard
       ↓
 Business Insights & Recommendations
 
-text```
+
 
 ##🗄️ SQL Analysis
 
