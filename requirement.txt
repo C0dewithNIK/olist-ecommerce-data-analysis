@@ -1,0 +1,7 @@
+pandas  -  Data manipulation and analysis
+numpy  -	Numerical operations
+matplotlib	-  Visualization
+seaborn  -  Visualization
+sqlalchemy  -	Connecting Python to MySQL
+pymysql  -	MySQL database driver
+jupyter	 -  Running the notebook
