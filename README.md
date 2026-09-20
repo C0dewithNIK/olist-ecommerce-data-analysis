@@ -228,6 +228,10 @@ Includes:
 
 ---
 
+[📥 Download Power BI Dashboard (.pbix)](https://github.com/C0dewithNIK/olist-ecommerce-data-analysis/releases/latest/download/Olist_Project.pbix)
+
+[🔖 View Release & Project Details](https://github.com/C0dewithNIK/olist-ecommerce-data-analysis/releases/tag/v1.0.0)
+
 # 🔎 Key Findings
 
 Some major findings from the analysis include:
